@@ -1,0 +1,53 @@
+---
+--- {
+
+@import "{{ site.theme }}";
+
+header {
+
+    background: black;
+
+}
+
+header a.button {
+
+    background: blue
+
+}
+
+aside a.button {
+
+    background: darkblue;
+
+}
+
+#main-content h2:before {
+
+    color: orange;
+
+}
+
+#main-content h1:before {
+
+    color: lightblue;
+
+}
+
+#main-content h3 {
+
+    color: lightblue;
+
+  }
+
+  #main-content h4 {
+
+    color: lightblue;
+
+  }
+
+  #main-content h6 {
+
+    color: lightblue;
+
+  }
+}
